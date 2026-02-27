@@ -43,3 +43,5 @@ Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
  * Saves           =  Open the Save & Load menu
  * Mods            =  Open the Mod Manager
  * Settings        =  Open the settings menu
+
+trigger workflow run
